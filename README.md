@@ -1,1 +1,2 @@
 # House-Price-Predictor
+The aim of this project is to predict the deciding features that can be used to understand the selling prices for different houses. The dataset is taken from Kaggle competition- House Prices: Advanced Regression Techniques. In this notebook,Random Forest is used to train a model on the dataset. Analysis is evaluated on the basis of MSE. The analysis is done in the 'House-Price-Prediction.ipynb'.   
